@@ -1,6 +1,12 @@
 # SimpleAudioDenoise
 A Simple and Efficient Implementation Of Fast Fourier Transform For Audio Denoise
 
+https://blog.csdn.net/weixin_34358092/article/details/94050728
+
+一种简单高效的音频降噪算法示例(附完整C代码)
+
+
+
 
 # Donating
 
